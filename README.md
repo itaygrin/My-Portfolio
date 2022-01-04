@@ -1,8 +1,11 @@
 This is a ReactJS app.
 To run this website:
+
 1)cd into the root folder "./portfolio" and type "npm install" to install the dependencies the project uses.
-2)type "npm run start" to run the app. (on localhost:3000).
-3)type "http-server ./" to be able to load the images. (chrome doesn't let uploading local files because of security issues, so this comman runs a server that stores the project assets).
+
+2)run "npm run start" to run the app. (on localhost:3000).
+
+3)cd into ./src/images and run "http-server ./" to be able to load the images. (chrome doesn't let uploading local files because of security issues, so this command runs a server that stores the project assets).
 
 Form validation:
 The form validates:
