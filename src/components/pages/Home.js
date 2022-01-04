@@ -50,20 +50,20 @@ const Home = () => {
                         </ul>
                     </div>
                     <div className="landing-right">
-                        <img src="http://10.0.0.19:8080/Face_image.png" alt="Itay Grinberg's magnificent face" width={"300px"}></img>
+                        <img src="./images/Face_image.png" alt="Itay Grinberg's magnificent face" width={"300px"}></img>
                     </div>
                 </div>
-                <img src='http://10.0.0.19:8080/Scroll.png' alt='scroll down' className='scroll'></img>
+                <img src='./images/Scroll.png' alt='scroll down' className='scroll'></img>
             </div>
 
             <div className="languages">
                 <h2>Languages</h2>
                 <div className="programs">
-                    <img src="http://10.0.0.19:8080/Java.png" alt="Java" />
-                    <img src="http://10.0.0.19:8080/Javascript.png" alt="Javascript" />
-                    <img src="http://10.0.0.19:8080/C.png" alt="C" />
-                    <img src="http://10.0.0.19:8080/CSharp.png" alt="C#" />
-                    <img src="http://10.0.0.19:8080/Python.png" alt="Python" />
+                    <img src="./images/Java.png" alt="Java" />
+                    <img src="./images/Javascript.png" alt="Javascript" />
+                    <img src="./images/C.png" alt="C" />
+                    <img src="./images/CSharp.png" alt="C#" />
+                    <img src="./images/Python.png" alt="Python" />
                 </div>
             </div>
 

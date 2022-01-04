@@ -14,7 +14,7 @@ function App() {
       {/* <video autoPlay muted loop id='myVideo'>
         <source src='http://10.0.0.19:8080/Type.mp4' type='video/mp4' />
       </video> */}
-      <img src="http://10.0.0.19:8080/code.jpg" alt="Background" id='myBackground' />
+      <img src="./images/code.jpg" alt="Background" id='myBackground' />
       <Router>
         <Navbar />
         <Routes>
