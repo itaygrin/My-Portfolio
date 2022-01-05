@@ -44,8 +44,8 @@ h5{
 }
 
 .blue {
-    float: right;
-    font-size: 23px;
+    /* float: right; */
+    font-size: 20px;
     font-style: oblique;
     text-decoration: underline;
 }
@@ -58,11 +58,15 @@ h5{
     width:65%;
 }
 
+.employment-left .blue {
+    float: right;
+}
+
 .employment-left p {
     color: #17191a;
     opacity: 0.95;
     font-weight: 100;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 20px;
     position: relative;
     left: 3%;
@@ -83,6 +87,16 @@ h5{
     list-style: none;
     line-height: 30px;
 }
+
+@media screen and (max-width: 1270px) {
+    .employment-left .blue {
+        font-size: 18px;
+        float: left;
+        padding-right: 10em;
+        /* display: flex;
+        justify-content: space-between; */
+    }
+  }
 
 
 

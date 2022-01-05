@@ -99,5 +99,23 @@ h5{
     line-height: 30px;
 }
 
+@media screen and (max-width: 1760px) {
+    .education-left .blue {
+        font-size: 18px;
+        float: left;
+        padding-right: 28em;
+        content: "\a";
+        white-space: pre;
+        /* display: flex;
+        justify-content: space-between; */
+    }
+  }
+@media screen and (max-width: 560px) {
+    .education-left{
+        width: 100%;
+    }
+  }
+
+
 
 

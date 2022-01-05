@@ -27,8 +27,9 @@
     min-height: 50%;
   } */
 
-.blue{
+.about-left .blue{
     color: #027bff;
+    float: left;
 }
 
 .about {

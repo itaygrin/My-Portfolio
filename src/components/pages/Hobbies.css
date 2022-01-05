@@ -73,5 +73,10 @@ h5{
     line-height: 30px;
 }
 
+@media screen and (max-width: 500px) {
+    .hobbies-left{
+        width: 100%;
+    }
+  }
 
 
