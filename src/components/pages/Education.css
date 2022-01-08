@@ -76,11 +76,11 @@ h5{
 }
 
 .education-left{
-    margin-top: 2em;
+    margin-top: 1.5em;
     background-color: rgba(255, 255, 255, 0.55);
     border-radius: 20px;
     padding: 2em;
-    width:65%;
+    width:75%;
 }
 
 .education-text {
